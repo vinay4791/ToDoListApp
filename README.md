@@ -10,3 +10,5 @@ harnessing the full power of SQLite.
 - ViewBinding is used.
 - MVVM Architecture is used with Livedata and ViewModel.
 
+Following the recommended architecture to use a Single Activity and Multiple 
+Fragments because fragments are very light weight than Activity.
