@@ -6,7 +6,7 @@ harnessing the full power of SQLite.
 - The Project Uses jetpack Datastore which is an alternate to Shared Preferences.
 - Uses Flow which is used to get a stream of data in an asynchronous way.
 - Navigation Component in Jetpack Library is used to add and manage fragments.
-- Dependency Inject is used in the app. We uses Dagger Hilt Dependency Injection Library.
+- Dependency Injection is used in the app.Used Dagger Hilt Dependency Injection Library.
 - ViewBinding is used.
 - MVVM Architecture is used with Livedata and ViewModel.
 
