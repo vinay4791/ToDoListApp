@@ -21,6 +21,7 @@ class TasksViewModel @ViewModelInject constructor(
          taskDao.getTasks(it)
      }*/
 
+    //Whenever a change happens in any of this 3 flows it will be automatically reflected in the taskFlow
     private val taskFlow = combine(
         searchQuery,
         sortOrder,
